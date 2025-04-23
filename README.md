@@ -42,10 +42,10 @@ C++17 compatible compiler (g++ 7+ or clang 5+)
 
 sudo apt update
 sudo apt install libpcap-dev g++
-git clone https://github.com/yourusername/cppdump.git
+https://github.com/sanskar-sudo/Faro.git
 cd Faro
-make
-sudo make install
+sudo ./Faro -i eth0
+
 ```
     
 
