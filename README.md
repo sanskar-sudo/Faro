@@ -243,5 +243,4 @@ sudo Faro -i wlan0 -c 50
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![Image](https://github.com/user-attachments/assets/1e32121e-c50b-459e-8474-07dbf74736ea)
